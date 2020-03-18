@@ -83,49 +83,49 @@ STICKY 04;37;44
 #+ Extension Pattern +
 #+-------------------+
 #+--- Archives ---+
-.7z 01;32
-.ace 01;32
-.alz 01;32
-.arc 01;32
-.arj 01;32
-.bz 01;32
-.bz2 01;32
-.cab 01;32
-.cpio 01;32
-.deb 01;32
-.dz 01;32
-.ear 01;32
-.gz 01;32
-.jar 01;32
-.lha 01;32
-.lrz 01;32
-.lz 01;32
-.lz4 01;32
-.lzh 01;32
-.lzma 01;32
-.lzo 01;32
-.rar 01;32
-.rpm 01;32
-.rz 01;32
-.sar 01;32
-.t7z 01;32
-.tar 01;32
-.taz 01;32
-.tbz 01;32
-.tbz2 01;32
-.tgz 01;32
-.tlz 01;32
-.txz 01;32
-.tz 01;32
-.tzo 01;32
-.tzst 01;32
-.war 01;32
-.xz 01;32
-.z 01;32
-.Z 01;32
-.zip 01;32
-.zoo 01;32
-.zst 01;32
+.7z 32
+.ace 32
+.alz 32
+.arc 32
+.arj 32
+.bz 32
+.bz2 32
+.cab 32
+.cpio 32
+.deb 32
+.dz 32
+.ear 32
+.gz 32
+.jar 32
+.lha 32
+.lrz 32
+.lz 32
+.lz4 32
+.lzh 32
+.lzma 32
+.lzo 32
+.rar 32
+.rpm 32
+.rz 32
+.sar 32
+.t7z 32
+.tar 32
+.taz 32
+.tbz 32
+.tbz2 32
+.tgz 32
+.tlz 32
+.txz 32
+.tz 32
+.tzo 32
+.tzst 32
+.war 32
+.xz 32
+.z 32
+.Z 32
+.zip 32
+.zoo 32
+.zst 32
 
 #+--- Audio ---+
 .aac 32
@@ -145,10 +145,10 @@ STICKY 04;37;44
 .wav 32
 
 #+--- Customs ---+
-.3des 01;35
-.aes 01;35
-.gpg 01;35
-.pgp 01;35
+.3des 35
+.aes 35
+.gpg 35
+.pgp 35
 
 #+--- Documents ---+
 .doc 32
@@ -169,13 +169,13 @@ STICKY 04;37;44
 .xlsx 32
 
 #+--- Executables ---+
-.app 01;36
-.bat 01;36
-.btm 01;36
-.cmd 01;36
-.com 01;36
-.exe 01;36
-.reg 01;36
+.app 36
+.bat 36
+.btm 36
+.cmd 36
+.com 36
+.exe 36
+.reg 36
 
 #+--- Ignores ---+
 *~ 02;37
